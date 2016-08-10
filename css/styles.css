@@ -39,3 +39,14 @@ nav li{
 div {
   text-align: center;
 }
+
+footer {
+  background: #C0C0C0;
+  height: 50px;
+  padding-top: 15px
+}
+
+footer h5 {
+  text-align: center;
+  padding-top: : 10px;
+}
