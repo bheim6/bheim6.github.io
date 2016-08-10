@@ -35,6 +35,10 @@ nav li{
   margin-top: 20px;
 }
 
+#post h1 {
+  color: #FF0000;
+}
+
 
 div {
   text-align: center;
