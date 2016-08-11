@@ -35,10 +35,27 @@ nav li{
   margin-top: 20px;
 }
 
-#post h1 {
-  color: #FF0000;
+#post p {
+  padding: 4px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 
+#clipping_diagram {
+  height: 250px;
+}
+
+#t808 {
+  height: 300px;
+}
+
+#ds1 {
+  height: 300px;
+}
+
+#ff {
+  height:300px;
+}
 
 div {
   text-align: center;
